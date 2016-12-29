@@ -3,13 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Welcome to Code in the Wild. My name is Dan and I am a software developer from the Greater Philadelphia region. I have been developing software professionally for almost six years for companies both large and small. I currently work for a late stage start-up using PHP, Python, Scala, and JavaScript to maintain and develop applications.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This blog is intended to be my dumping ground for all things related to software and my career as a Software Engineer. That being said, in no way do my writings, ideas, or opinions reflect those of my employer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
