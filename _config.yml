@@ -23,7 +23,7 @@ github_username:  dbk138
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 gems:
   - jekyll-feed
 exclude:
